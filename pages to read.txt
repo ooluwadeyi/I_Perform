@@ -1,0 +1,13 @@
+page 459 on kivy docs for Accordion
+
+page 480
+427 for filechoose
+
+read 103 for ObjectProperty
+
+Client App 110
+
+ Depends: python-dateutil but it is not installable
+                     Depends: python-pyparsing but it is not installable
+                     Recommends: python-glade2 but it is not installable
+                     Recommends: python-tk (>= 2.5.2-1.1) but it is not instal
