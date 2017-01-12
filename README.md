@@ -6,7 +6,12 @@ This README would normally document whatever steps are necessary to get your app
 
 I_Perform is an application that helps Parents and Teachers to synergize on improving the Academic Performance of Students in High School.
 The App uses Kivy and Python Pandas to analyze and send periodic performance reports to Parents from the school's System
-### How do I get set up? ###
+### How do I get set up? 
+## Dependencies
+
+Kivy 1.8.0
+
+Pandas 0.17
 
 
 
